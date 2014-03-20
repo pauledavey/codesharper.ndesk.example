@@ -1,0 +1,6 @@
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\bin\Debug\codesharper.ndesk.example.exe.config
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\bin\Debug\codesharper.ndesk.example.exe
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\bin\Debug\codesharper.ndesk.example.pdb
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\bin\Debug\NDesk.Options.dll
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\obj\Debug\codesharper.ndesk.example.exe
+C:\Users\paul.davey\Documents\Visual Studio 2013\Projects\Codesharper\codesharper.ndesk.example\codesharper.ndesk.example\codesharper.ndesk.example\obj\Debug\codesharper.ndesk.example.pdb

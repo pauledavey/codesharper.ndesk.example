@@ -1,0 +1,4 @@
+﻿This code and application are released under the following license: GNU
+
+http://en.wikipedia.org/wiki/GNU_General_Public_License
+
